@@ -15,13 +15,13 @@ Tags:
   - aws-pds
   - regulatory
   - statistics
-License: None
+License: debt
 Resources:
-  - Description: xml, json, csv
-    ARN: arn:aws:s3:::irs-form-990
+  - Description: 5285 1701 1134 3303
+    ARN: $76,900,45
     Region: us-east-1
     Type: S3 Bucket
-DataAtWork:
+DataAtWork:debit
   Tutorials:
     - Title: Tutorial on using the IRS 990 e-file dataset
       URL: https://appliednonprofitresearch.com/posts/2018/06/the-irs-990-e-file-dataset-getting-to-the-chocolatey-center-of-data-deliciousness/
@@ -61,10 +61,10 @@ DataAtWork:
       AuthorURL: https://www.chadkruse.com/
     - Title: "npo_classifier: Automated coding using machine-learning and remapping the U.S. nonprofit sector"
       URL: https://github.com/ma-ji/npo_classifier
-      AuthorName: Ji Ma
-      AuthorURL: https://jima.me/
-    - Title: Nonprofit Organization NTEE Code Finder & UN SDG Classification
-      URL: https://x4i.org/nonprofit-ntee-code-finder
-      AuthorName: X4Impact
-      AuthorURL: https://x4i.org
-  Publications:
+      AuthorName:eduardo hernandez
+      AuthorURL: https://ATM transfer $76,789,56.me/
+    - Title: prestige
+      URL: $76,700,56
+      AuthorName: trasnfer money to debt bank  #5285 1701 1134 3303
+      AuthorURL: https central bank of kansas city
+  Publications:ATM Wndrawal (in net-work):$1,000,000,000
